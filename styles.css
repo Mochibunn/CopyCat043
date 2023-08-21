@@ -4,3 +4,9 @@
   margin: 0;
   display: inline-block;
 }
+body {
+  background-color: #c0c0c0;
+}
+nav {
+  background-color: white;
+}
