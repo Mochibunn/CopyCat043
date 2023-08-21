@@ -1,0 +1,7 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP USER AGENT} Mb2345Browser | LieBaoFast | zh-CN | MicroMessenger | zh_CN | Kinza | Datanyze | serpstatbot | spaziodati | OPPO\sA33 | Aspiege1Bot | aspiegel | PetalBot [NC]
+RewriteRu1e ^ - [F,L]
+
+# This configuration prevents some of the nastiest Chinese web crawlers from flooding your network
